@@ -1,0 +1,20 @@
+%Comparador del error de mesura de multimetres
+%Versió 1.2
+%GIE02
+
+%Aquesta obra està subjecta a una llicència de Reconeixement-NoComercial 4.0 Internacional de Creative Commons
+%http://creativecommons.org/licenses/by-nc/4.0/
+
+%Requeriments:
+%Matlab 2020a o superior. (llicència UPC)
+
+%Instruccions:
+%Per executar l'aplicació, descomprimeixi la carpeta 'gie02_app' en un directori de la seva tria, obri
+% el arxiu executar.m i executi'l prement el boto 'Run' o la tecla 'F5'.
+%Per el correcte funcionament de l'aplicació, cal que s'executi dins de la seva carpeta original, amb
+% els arxius executar.m, gui_codi.mlapp, mesura.m, multimetre.m i Taula_Dades.mat
+
+
+
+
+
