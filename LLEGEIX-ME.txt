@@ -1,5 +1,5 @@
 %Comparador del error de mesura de multimetres
-%Versió 1.2
+%Versió 2.1
 %GIE02
 
 %Aquesta obra està subjecta a una llicència de Reconeixement-NoComercial 4.0 Internacional de Creative Commons
